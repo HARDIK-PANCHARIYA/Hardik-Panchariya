@@ -52,8 +52,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/HARDIK-PANCHARIYA/HARDIK-PANCHARIYA/output/snake.svg" alt="Snake animation" />
-
-###
