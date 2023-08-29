@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋my self HARDIK PANCHARIYA</h2>
+<h2 align="left">Hi 👋 my self HARDIK PANCHARIYA</h2>
 
 ###
 
