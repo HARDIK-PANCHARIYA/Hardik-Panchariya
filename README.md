@@ -6,7 +6,7 @@
 <br clear="both">
 
 <div align="center">
-<img src="https://myreadme.vercel.app/api/embed/?panels=HARDIK-PANCHARIYA,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/HARDIKPANCHARIYA?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </div>
 <div>
   <br>
