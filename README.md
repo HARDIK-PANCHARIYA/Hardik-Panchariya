@@ -5,9 +5,8 @@
 
 <br clear="both">
 
-<div align="center">
 <img src="https://myreadme.vercel.app/api/embed/HARDIKPANCHARIYA?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-</div>
+
 <div>
   <br>
 </div>
