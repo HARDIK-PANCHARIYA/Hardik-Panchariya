@@ -1,5 +1,5 @@
 
-<h2 align="left">My Self Hardik Panchariya</h2>
+<h2 align="left">My Self Hardik Panchariy</h2>
 
 ###
 
