@@ -1,6 +1,6 @@
 
 <h2 align="left">My Self Hardik
-  Panchariya</h2>
+Panchariya</h2>
 
 ###
 
